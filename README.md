@@ -1,4 +1,4 @@
-# Rolling Dice
+# Rolling Dices
 
 When you open/refreshed the web page, auto-generated random numbers appear on the dices.
 
